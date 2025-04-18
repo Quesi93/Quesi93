@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Akwasi Boateng<br>👀 I’m interested in React JS, React Native, Node JS/Express, MsQL, MongoDB, Firebase, Javascript, HTML5, CSS3, SaSS ...<br>💞️ I’m looking to collaborate on Full Stack Dev Projects or Front-End Web Development Projects and Cross Platform / Mobile Dev Projects ...<br>📫 Reach me on quesiboateng1@gmail.com or +233553627024...<br><br>
+👋 Hi, I’m Akwasi Boateng<br>👀 I’m interested in React JS, React Native, Node JS/Express, MsQL, MongoDB, Firebase, Javascript, HTML5, CSS3, SaSS ...<br>💞️ I’m looking to collaborate on Full Stack Dev Projects or Front-End Web Development Projects and Cross Platform / Mobile Dev Projects ...<br>📫 Reach me on quesiboateng1@gmail.com or +233531406852...<br><br>
 
 
 ## 🌐 Socials:
