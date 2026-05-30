@@ -43,6 +43,7 @@ I am especially interested in remote software engineering roles where I can cont
 
 * LinkedIn: https://www.linkedin.com/in/akwasiboateng/
 * Email: [quesiboateng1@gmail.com](mailto:quesiboateng1@gmail.com)
+* Contact: +233205716030 / +23351406852
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quesi93\&layout=compact)
